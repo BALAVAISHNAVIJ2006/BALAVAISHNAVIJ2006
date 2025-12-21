@@ -65,19 +65,13 @@
 🌍[Portfolio](https://portfolio-myproject-789.netlify.app/)
 
 ---
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
-GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BALAVAISHNAVIJ2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BALAVAISHNAVIJ2006&theme=dark)
 </div>
 
+
+---
 ⭐ **Thanks for visiting!**  
 Feel free to check out my repositories or reach out for collaboration 😊
