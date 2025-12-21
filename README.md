@@ -60,8 +60,9 @@
 
 ## 📫 Connect With Me  
 
-🔗[ LinkedIn]: * (https://www.linkedin.com/in/bala-vaishnavi-jajula-1a1bb5356/) * 
-🌍 Portfolio: *https://portfolio-myproject-789.netlify.app/*  
+💼[ LinkedIn](https://www.linkedin.com/in/bala-vaishnavi-jajula-1a1bb5356/) 
+📧[Emailme](mailto:jajulabalavaishnavi@gmail.com)
+🌍 [Portfolio] (https://portfolio-myproject-789.netlify.app/)
 
 ---
 
