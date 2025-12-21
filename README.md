@@ -62,7 +62,17 @@
 
 💼[ LinkedIn](https://www.linkedin.com/in/bala-vaishnavi-jajula-1a1bb5356/) 
 📧[Emailme](mailto:jajulabalavaishnavi@gmail.com)
-🌍 [Portfolio] (https://portfolio-myproject-789.netlify.app/)
+🌍[Portfolio](https://portfolio-myproject-789.netlify.app/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006E&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALAVAISHNAVIJ2006&theme=radical)
 
 ---
 
