@@ -68,9 +68,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BALAVAISHNAVIJ2006&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAVAISHNAVIJ2006&theme=react-dark)
 
 ---
 
