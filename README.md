@@ -72,11 +72,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BALAVAISHNAVIJ2006&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BALAVAISHNAVIJ2006&theme=dark)
+
 
 </div>
 ---
