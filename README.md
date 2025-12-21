@@ -66,8 +66,9 @@
 
 ---
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BALAVAISHNAVIJ2006&theme=dark)
 </div>
 
