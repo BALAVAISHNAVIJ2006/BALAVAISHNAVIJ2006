@@ -67,9 +67,10 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BALAVAISHNAVIJ2006&theme=radical)
 
+![GitHub Stats](https://your-site-name.netlify.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical)
 
+![Top Languages](https://your-site-name.netlify.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
 
 <div align="center">
   
