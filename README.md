@@ -66,6 +66,10 @@
 
 ---
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+
 
 <div align="center">
   
