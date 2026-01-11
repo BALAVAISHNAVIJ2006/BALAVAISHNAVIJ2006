@@ -67,10 +67,6 @@
 ---
 ## 📊 GitHub Stats
 
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BALAVAISHNAVIJ2006&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=BALAVAISHNAVIJ2006&theme=radical&no-frame=true&row=1&column=6)
-
 <div align="center">
   
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BALAVAISHNAVIJ2006&theme=dark)
