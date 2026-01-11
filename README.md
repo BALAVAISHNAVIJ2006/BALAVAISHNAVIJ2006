@@ -68,9 +68,8 @@
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://your-site-name.netlify.app/api?username=BALAVAISHNAVIJ2006&show_icons=true&theme=radical)
-
-![Top Languages](https://your-site-name.netlify.app/api/top-langs/?username=BALAVAISHNAVIJ2006&layout=compact&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BALAVAISHNAVIJ2006&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BALAVAISHNAVIJ2006&theme=radical&no-frame=true&row=1&column=6)
 
 <div align="center">
   
